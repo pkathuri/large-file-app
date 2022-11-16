@@ -1,30 +1,3 @@
-
-##  Countries with similar socio-economic characteristics to Kenya
-
-
-## Objective
-The objective of this project is to obtain 5 countries that have similar socio-economic
-characteristics to Kenya.
-## Authors
-
-- [Philip Kiama Kathuri](https://github.com/pkathuri/Portfolio-projects)
-
-
-## Methods used 
-- Dimension deduction
-- Unsupervised Learning
- 
-
-
-
-## Technologies used
-- Google Drive
-- Google Colab
-- Python
-- jupyter Notebook
-
-
-## Featured Notebooks]/Report
- 
-[Note book ](https://github.com/pkathuri/Portfolio-projects/blob/master/Clustering_project.ipynb)
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf8ad089d29786d45e93376609336ddcb35bdf1a27cb5b65c64fddf0ed5e382c
+size 564
